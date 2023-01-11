@@ -10,3 +10,19 @@ Goals:
 3. Learn React and build projects.
 
 Overall it is all focused on learning Frontend development.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 1: <a href = "https://twitter.com/VaibhavSinghDev/status/1612547437251661824?s=20">Check the tweet here!</a>
+1. Learnt about CSS Box-Model and Flex-box. Resource: <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox">MDN Web Docs</a>
+2. Started a CSS challenge by frontend mentor to practice. <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H"> QR Code Component - Frontend Mentor</a>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 2: <a href = "https://twitter.com/VaibhavSinghDev/status/1612912803022770178?s=20">Check the tweet here!</a>
+1. Learnt about more properties in CSS. Resource: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN Web Docs</a>
+2. Completed a basic CSS challenge by Frontend mentor to practice. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 3: <a href = "">Check the tweet here!</a>
