@@ -25,4 +25,20 @@ Day 2: <a href = "https://twitter.com/VaibhavSinghDev/status/1612912803022770178
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 3: <a href = "">Check the tweet here!</a>
+Day 3: <a href = "https://twitter.com/VaibhavSinghDev/status/1613270024332120066?s=20">Check the tweet here!</a>
+1. Learnt more about CSS layout from MDN.
+2. Configured GitHub repo for documenting these 100 days and challenges too.
+3. Revised git. Resource: https://youtu.be/apGV9Kg7ics
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 4: <a href = "https://twitter.com/VaibhavSinghDev/status/1613652761668882432?s=20">Check the tweet here!</a>
+1. Read few blogs on CSS.
+2. Started 2nd challenge by Frontend Mentor. Pretty much close to complete, hopefully tomorrow it will be done. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 5: <a href = "https://twitter.com/VaibhavSinghDev/status/1613976730515148800?s=20">Check the tweet here!</a>
+1. Completed the nft-preview challenge. Just 1 functionality still couldn't figure out. Update: Finished completely on Day6.
+2. Took a simple CSS assessment on MDN.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
