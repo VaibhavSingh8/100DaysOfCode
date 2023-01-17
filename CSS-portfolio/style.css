@@ -30,6 +30,19 @@ h3 {
     margin: 0;
 }
 
+.nav-bar{
+    font-family: var(--mono);
+}
+
+.nav-bar ul{
+    list-style: none;
+}
+
+.nav-bar ul li a{
+    text-decoration: none;
+    color: var(--white);
+}
+
 .intro{
     padding-bottom: 10rem;
 }
@@ -53,4 +66,19 @@ h3 {
 
 .intro h2 {
     font-size: 3rem;
+}
+
+.contact{
+    background-color: var(--plum);
+    margin: 0 auto;
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.contact p:last-child{
+    margin-top: 3rem;
+}
+
+.contact p a{
+    color: var(--hotmag);
 }
