@@ -32,15 +32,41 @@ h3 {
 
 .nav-bar{
     font-family: var(--mono);
+    padding: 1rem;
+    font-size: 80%;
+}
+
+.nav-bar h1 a{
+    font-family: var(--sans);
 }
 
 .nav-bar ul{
-    list-style: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-flow: row wrap ;   
+}
+
+.nav-bar li:first-child{
+    flex-basis: 100%;
 }
 
 .nav-bar ul li a{
     text-decoration: none;
     color: var(--white);
+    /* display: block; */
+}
+
+.nav-bar a:hover,
+.nav-bar [class*="fa-"]:hover{
+    color: var(--magenta);
+}
+
+.nav-bar [class*="fa-"]{
+    font-size: 150%;
+    color: var(--aqua);
 }
 
 .intro{
@@ -81,4 +107,15 @@ h3 {
 
 .contact p a{
     color: var(--hotmag);
+}
+
+.button{
+    background-color: var(--magenta);
+    border-radius: 5px;
+    padding: 0.5rem;
+    
+}
+.nav-bar .button:hover{
+    background-color: var(--hotmag);
+    color: var(--white);
 }
