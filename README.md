@@ -98,3 +98,61 @@ Day 11: <a href = "https://twitter.com/VaibhavSinghDev/status/161653671098440499
 1. Revised basic concepts of JavaScripts.
 2. Moving forward with some simple JS projects.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 12: <a href = "https://twitter.com/VaibhavSinghDev/status/1617056558638325763?s=20">Check the tweet here!</a>
+
+1. Learnt about DOM manipulation and event listeners.
+2. Started a basic calculator project.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 13: <a href = "https://twitter.com/VaibhavSinghDev/status/1617318696770306048?s=20">Check the tweet here!</a>
+
+1. Worked on UI of the calculator project.
+2. Working on the JavaScript logic.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 14: <a href = "https://twitter.com/VaibhavSinghDev/status/1617688634320117764?s=20">Check the tweet here!</a>
+
+1. Completed the calculator project with basic functionality.
+2. Followed a tutorial for this to get started with understanding JS in projects.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 15: <a href = "https://twitter.com/VaibhavSinghDev/status/1618051149201915910?s=20">Check the tweet here!</a>
+
+1. Started another challenge by Frontend Mentor,
+2. "Interactive Rating Component" to practice my basic JavaScript skills.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 16: <a href = "https://twitter.com/VaibhavSinghDev/status/1618619900544835586?s=20">Check the tweet here!</a>
+
+1. Done with UI part of the "Interactive-rating-component" challenge by Frontend Mentor.
+2. Moving fwd with implementing required JS. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 17: <a href = "https://twitter.com/VaibhavSinghDev/status/1619052614196559872?s=20">Check the tweet here!</a>
+
+1. Completed the "Interactive-rating-component" challenge by Frontend Mentor.
+2. Practiced basic DOM Manipulation.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 18: <a href = "https://twitter.com/VaibhavSinghDev/status/1619816225575698435?s=20">Check the tweet here!</a>
+
+1. Started practicing JavaScript with #javascript30
+2. Working on JS Drumkit.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 19: <a href = "https://twitter.com/VaibhavSinghDev/status/1620217926283399168?s=20">Check the tweet here!</a>
+
+1. Completed JS Drumkit from #javascript30.
+2. Used 'key' instead of 'keyCode' mentioned in the lecture as 'keyCode' is deprecated.
+3. It is not responsive, will make it. ✌️
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 20: <a href = "https://twitter.com/VaibhavSinghDev/status/1620587866169409536?s=20">Check the tweet here!</a>
+
+1. Started 'CSS + JS Clock' from #javascript30 .
+2. Couldn't do much, working on UI currently and playing with transform and transition properties.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 21: <a href = "https://twitter.com/VaibhavSinghDev/status/1621206463824920576?s=20">Check the tweet here!</a>
+
+1. Built a simple 'CSS + JS Clock' from #javascript30.
+2. Need to add some basic if checks.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
