@@ -44,6 +44,7 @@ Day 4: <a href = "https://twitter.com/VaibhavSinghDev/status/1613652761668882432
 Day 5: <a href = "https://twitter.com/VaibhavSinghDev/status/1613976730515148800?s=20">Check the tweet here!</a>
 
 1. Completed the nft-preview challenge. Just 1 functionality still couldn't figure out. Update: Finished completely on Day6.
+   Link to the code: https://github.com/VaibhavSinghDev/Frontend-Mentor-Challenges/tree/main/nft-preview-card-component-main
 2. Took a simple CSS assessment on MDN.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
