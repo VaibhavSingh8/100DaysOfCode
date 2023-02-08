@@ -157,3 +157,21 @@ Day 21: <a href = "https://twitter.com/VaibhavSinghDev/status/162120646382492057
 1. Built a simple 'CSS + JS Clock' from #javascript30.
 2. Need to add some basic if checks.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 22: <a href = "https://twitter.com/Vaibhavs_twt/status/1621667602543308800?s=20">Check the tweet here!</a>
+
+1. Learnt about how the JavaScript code gets executed. The working of JavaScript.
+   Learning more about it.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 24: <a href = "https://twitter.com/singh_vaibhav08/status/1622755772852469762?s=20">Check the tweet here!</a>
+
+1. Built a small project with #javascript30 .
+2. Learnt how to manipulate CSS variables with JavaScript in that.
+3. Added "Border Radius" to try it.
+   
+   It is still just basic but will improve it.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
