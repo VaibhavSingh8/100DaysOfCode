@@ -171,7 +171,7 @@ Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s
 1. Learnt about hoisting in JavaScript.
 2. Continuing with #javascript30 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 24: <a href = "https://twitter.com/singh_vaibhav08/status/1622755772852469762?s=20">Check the tweet here!</a>
+Day 24: <a href = "https://twitter.com/VaibhavSinghDev/status/1622755772852469762?s=20">Check the tweet here!</a>
 
 1. Built a small project with #javascript30 .
 2. Learnt how to manipulate CSS variables with JavaScript in that.
@@ -180,4 +180,50 @@ Day 24: <a href = "https://twitter.com/singh_vaibhav08/status/162275577285246976
    It is still just basic but will improve it.
    
    Source code: <a href = "https://github.com/singh-vaibhav08/JavaScript-30-Challenges/tree/master/Css%20variables%20and%20JS">Check here :)</a>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 25: <a href = "https://twitter.com/VaibhavSinghDev/status/1623756036116193280?s=20">Check the tweet here!</a>
+
+1. A late tweet, I wrote  a blog on "Understanding How JavaScript Code is Executed: A Behind-the-Scenes Overview"
+You can read the blog here:
+https://vaibhavsblog.hashnode.dev/understanding-how-javascript-code-is-executed-a-behind-the-scenes-overview 
+----------------------------------------------------------------------------------------------------------------------------------------------------------DDay 26: <a href = "https://twitter.com/VaibhavSinghDev/status/1623849227737792513?s=20">Check the tweet here!</a>
+
+1.  Learnt how functions work in js.
+2. Tried to explore more about the DOM
+----------------------------------------------------------------------------------------------------------------------------------------------------------DDay 27: <a href = "https://twitter.com/VaibhavSinghDev/status/1624115824775823365?s=20">Check the tweet here!</a>
+
+1. Explored call-back functions, closures etc.
+2. Just watched videos on different topics in JS today.
+----------------------------------------------------------------------------------------------------------------------------------------------------------DDay 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------DDay 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------DDay 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
+----------------------------------------------------------------------------------------------------------------------------------------------------------Day 23: <a href = "https://twitter.com/Vaibhavs_twt/status/1622288196913741824?s=20">Check the tweet here!</a>
+
+1. Learnt about hoisting in JavaScript.
+2. Continuing with #javascript30 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
